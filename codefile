@@ -1,3 +1,0 @@
-#!/bin/bash
-echo "my first remote script"
-echo "my changes via local"
